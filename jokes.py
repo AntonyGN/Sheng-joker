@@ -1,7 +1,5 @@
-import random
-
 jokes = [
-   "Wasee wa vitz wanadai gava introduce petrol ya sachets.",
+    "Wasee wa vitz wanadai gava introduce petrol ya sachets.",
     "bei ya iPhone ireduce ju mtu alishabite hio apple.",
     "Miguna Miguna anyang’anywe jina moja wapatie wenyewe hawana majina kama Nameless.",
     "Ile light inakuanga at the end of the tunnel izimwe ku save energy.",
@@ -13,5 +11,3 @@ jokes = [
     "Ni DSTV tutalipia ama ni rent?",
     "KBC ionyeshe game za Euros.",
 ]
-
-print(random.choice(jokes))
